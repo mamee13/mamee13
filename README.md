@@ -1,4 +1,4 @@
-# Hi there, I'm Mamaru! 👋
+# Hi there, I'm Mame! 👋
 
 <p align="center">
   <a href="https://github.com/mamee13">
@@ -6,12 +6,12 @@
   </a>
 </p>
 
-I'm a 4th-year Information Systems student at Wolkite University, passionate about crafting robust web and mobile solutions. As a self-taught developer, I've honed my skills primarily with **Node.js** and **MongoDB**.
+I'm a 4th-year Information Systems student at Wolkite University, passionate about crafting robust backend solutions and exploring mobile development. As a self-taught developer, I've honed my skills primarily with **Node.js**, **MongoDB**, and am now expanding into **React Native**.
 
-*   🌱 I’m currently diving deeper into `[e.g., microservices, advanced NestJS, GraphQL, or a specific cloud platform]`.
-*   👯 I’m looking to collaborate on `[e.g., open-source backend projects, innovative web applications, or API development]`.
-*   💬 Ask me about Node.js, MongoDB, backend architecture, or my journey into tech!
-*   📫 How to reach me: [mamaru.yirga.13@gmail.com](mailto:mamaru.yirga.13@gmail.com) (or connect via socials below!)
+*   🌱 I’m currently diving deeper into `[e.g., advanced React Native features, state management, or a specific cloud platform]`.
+*   👯 I’m looking to collaborate on `[e.g., open-source backend projects, innovative web/mobile applications, or API development]`.
+*   💬 Ask me about Node.js, MongoDB, React Native, backend architecture, or my journey into tech!
+*   📫 How to reach me: [mamaruyirga1394@gmail.com](mailto:mamaruyirga1394@gmail.com) (or connect via socials below!)
 *   ⚡ Fun fact: `[A short, interesting fun fact about you or your interests]`
 
 ---
@@ -25,6 +25,8 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
   <img src="https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white" alt="Deno JS"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <br/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
@@ -33,6 +35,7 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <br/>
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
@@ -66,9 +69,12 @@ Here are some of the technologies and tools I work with:
 
 ## 🌐 Let's Connect!
 
-Find me on:
+Feel free to reach out!
 
 <p align="left">
+  <a href="mailto:mamaruyirga1394@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   <a href="https://facebook.com/mamaru yirga" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
@@ -83,4 +89,3 @@ Find me on:
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- I kept this comment if you want to keep attributing it, or you can remove it -->
