@@ -1,4 +1,4 @@
-# Hi there, I'm Mame! 👋
+# Hi there, I'm Mamaru! 👋
 
 <p align="center">
   <a href="https://github.com/mamee13">
@@ -6,14 +6,12 @@
   </a>
 </p>
 
-I'm a 4th-year Information Systems student at Wolkite University, passionate about crafting robust backend solutions and exploring mobile development. As a self-taught developer, I've honed my skills primarily with **Node.js**, **MongoDB**, and am now expanding into **React Native**.
+I'm a 4th-year Information Systems student at Wolkite University, passionate about crafting robust web solutions and exploring mobile development. As a self-taught developer, I've honed my skills primarily with **Node.js**, **MongoDB**, **Express**, **React**, **Next.js** and am now expanding into **React Native**.
 
-*   🌱 I’m currently diving deeper into `[e.g., advanced React Native features, state management, or a specific cloud platform]`.
-*   👯 I’m looking to collaborate on `[e.g., open-source backend projects, innovative web/mobile applications, or API development]`.
+*   🌱 I’m currently diving deeper into Mobile app development.
+*   👯 I’m looking to collaborate on projects.
 *   💬 Ask me about Node.js, MongoDB, React Native, backend architecture, or my journey into tech!
 *   📫 How to reach me: [mamaruyirga1394@gmail.com](mailto:mamaruyirga1394@gmail.com) (or connect via socials below!)
-*   ⚡ Fun fact: `[A short, interesting fun fact about you or your interests]`
-
 ---
 
 ## 🚀 My Tech Stack
