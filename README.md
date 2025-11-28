@@ -1,11 +1,5 @@
 # Hi there, I'm Mamaru! 👋
 
-<p align="center">
-  <a href="https://github.com/mamee13">
-    <img src="https://visitcount.itsvg.in/api?id=mamee13&icon=0&color=0" alt="Visitor Count"/>
-  </a>
-</p>
-
 I'm a fullstack and mobile app developer at zainx technology, passionate about crafting robust web solutions and exploring mobile development. As a developer, I've developed my skills primarily around **Node.js**, **MongoDB**, **Express**, **React**, **Next.js** and **Flutter**.
 
 *   🌱 I’m currently diving deeper into Mobile app development.
