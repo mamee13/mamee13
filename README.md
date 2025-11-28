@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I'm a fullstack and mobileappdeveloper at zainx technology, passionate about crafting robust web solutions and exploring mobile development. As a developer, I've developed my skills primarily around **Node.js**, **MongoDB**, **Express**, **React**, **Next.js** and **Flutter**.
+I'm a fullstack and mobile app developer at zainx technology, passionate about crafting robust web solutions and exploring mobile development. As a developer, I've developed my skills primarily around **Node.js**, **MongoDB**, **Express**, **React**, **Next.js** and **Flutter**.
 
 *   🌱 I’m currently diving deeper into Mobile app development.
 *   👯 I’m looking to collaborate on projects.
