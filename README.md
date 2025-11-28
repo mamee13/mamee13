@@ -76,10 +76,10 @@ Feel free to reach out!
   <a href="https://facebook.com/mamaru yirga" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://linkedin.com/in/mamee113" target="_blank">
+  <a href="https://linkedin.com/in/mamaru-sishagn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/mamee1313" target="_blank">
+  <a href="https://x.com/MSishagn13" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/>
   </a>
   <!-- Add other social links here if you have them, e.g., Portfolio, Blog -->
