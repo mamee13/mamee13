@@ -6,11 +6,11 @@
   </a>
 </p>
 
-I'm a 4th-year Information Systems student at Wolkite University, passionate about crafting robust web solutions and exploring mobile development. As a self-taught developer, I've honed my skills primarily with **Node.js**, **MongoDB**, **Express**, **React**, **Next.js** and am now expanding into **React Native**.
+I'm a fullstack and mobileappdeveloper at zainx technology, passionate about crafting robust web solutions and exploring mobile development. As a developer, I've developed my skills primarily around **Node.js**, **MongoDB**, **Express**, **React**, **Next.js** and **Flutter**.
 
 *   🌱 I’m currently diving deeper into Mobile app development.
 *   👯 I’m looking to collaborate on projects.
-*   💬 Ask me about Node.js, MongoDB, React Native, backend architecture, or my journey into tech!
+*   💬 Ask me about Node.js, MongoDB, Flutter, backend architecture, or my journey into tech!
 *   📫 How to reach me: [mamaruyirga1394@gmail.com](mailto:mamaruyirga1394@gmail.com) (or connect via socials below!)
 ---
 
