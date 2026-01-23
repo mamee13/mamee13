@@ -1,10 +1,13 @@
 # Hi there, I'm Mamaru! 👋
 
-I'm a **Backend and Mobile App Developer**, focused on building reliable server-side systems and cross-platform mobile applications using modern technologies.
+I'm a **Backend and Mobile App Developer** who specializes in designing and building scalable backend systems and cross-platform mobile applications.
+My core expertise lies in **Node.js-based backend architectures**, **event-driven systems**, and **Flutter mobile development**, with a strong focus on performance, reliability, and clean system design.
 
-* 🌱 Currently focusing on backend systems and mobile app development
-* 👯 Open to collaboration on projects
-* 💬 Ask me about Node.js, PostgreSQL, Flutter, backend architecture, or system design
+I primarily work with **Node.js, TypeScript, Express, PostgreSQL, MongoDB, Apache Kafka, Redis, Docker, Kubernetes**, and **Flutter**, and I enjoy building systems that are production-ready and easy to maintain.
+
+* 🌱 Currently deepening my knowledge in backend scalability and mobile app architecture
+* 👯 Open to collaborating on backend-heavy or mobile-first projects
+* 💬 Ask me about Node.js, Kafka, PostgreSQL, Flutter, backend architecture, or system design
 * 📫 How to reach me: [mamaruyirga1394@gmail.com](mailto:mamaruyirga1394@gmail.com)
 
 ---
@@ -75,22 +78,14 @@ I'm a **Backend and Mobile App Developer**, focused on building reliable server-
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mamee13&theme=flat&margin-w=10" />
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 <p align="left">
   <a href="mailto:mamaruyirga1394@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://facebook.com/mamaru yirga" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://t.me/fcujj" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/mamaru-sishagn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
